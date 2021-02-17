@@ -10,10 +10,10 @@
 
 Main skills 🐍: 
 <ul>  
-  <li>Python</li>
-  <li>Django</li>
-  <li>JavaScript</li>
-  <li>HTML e CSS</li>
+  <li>Python;</li>
+  <li>Django;</li>
+  <li>JavaScript;</li>
+  <li>HTML e CSS.</li>
  </ul>
 
 ### Contacts
