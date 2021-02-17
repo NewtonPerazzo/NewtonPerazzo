@@ -1,7 +1,9 @@
 <img src="https://lh3.googleusercontent.com/proxy/GnHUg8zcD8RF-I-bOAD5iLcH2aEhTBJQiKxGCvUwBXYzmLj91aAlSOX60znD7u2q95ghalmK0Pkfb9i5Y-1meJR6FqqvAcRinzk" min-width="300px" max-width="300px" width="300px" align="right" alt="Programacao">
 
 ### Hi there 👋, my name is Newton Perazzo.
-<p>I am an enthusiastic developer and programming lover 🖥️. Here are my main projects where I develop to study and practice. Welcome to my profile! ✌🏻</>
+<p>I am an enthusiastic developer and programming lover 🖥️</p>
+<p>Here are my main projects where I develop to study and practice 👨🏻‍💻</p>
+<p>Welcome to my profile! ✌🏻</p>
 
 ### About me
 <p>I'm a backend web developer 💻</p>
