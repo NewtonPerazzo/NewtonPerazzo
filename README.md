@@ -1,4 +1,4 @@
-<img src="http://www.assespro-rs.org.br/site/wp-content/uploads/45454-2-e1534763901161-1200x501.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Programacao">
+<img src="http://www.assespro-rs.org.br/site/wp-content/uploads/45454-2-e1534763901161-1200x501.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Programacao">
 
 ### Hi there 👋
 
