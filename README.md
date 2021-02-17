@@ -11,4 +11,4 @@
 
 Skills 🐍: Python, Django, JavaScript, HTML e CSS.
 
-<a href="mailto:perazzoneto99@hotmail.com">[![Gmail Badge](https://img.shields.io/badge/-GMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:perazzoneto99@hotmail.com")]</a>
+<a href="mailto:perazzoneto99@hotmail.com">![Gmail Badge](https://img.shields.io/badge/-GMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:perazzoneto99@hotmail.com")</a>
