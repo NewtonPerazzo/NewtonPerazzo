@@ -12,4 +12,6 @@ Main skills 🐍: Python, Django, JavaScript, HTML e CSS.
 
 ### Contacts
 <a href="mailto:perazzoneto99@hotmail.com">![Gmail Badge](https://img.shields.io/badge/-GMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:perazzoneto99@hotmail.com")</a>
-<a>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/newton-perazzo/)](https://www.linkedin.com/in/newton-perazzo/)</a>
+<a href="https://www.linkedin.com/in/newton-perazzo/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" />
+</a>
