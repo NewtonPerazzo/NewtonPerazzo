@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/proxy/GnHUg8zcD8RF-I-bOAD5iLcH2aEhTBJQiKxGCvUwBXYzmLj91aAlSOX60znD7u2q95ghalmK0Pkfb9i5Y-1meJR6FqqvAcRinzk" min-width="500px" max-width="500px" width="500px" align="right" alt="Programacao">
+<img src="https://lh3.googleusercontent.com/proxy/GnHUg8zcD8RF-I-bOAD5iLcH2aEhTBJQiKxGCvUwBXYzmLj91aAlSOX60znD7u2q95ghalmK0Pkfb9i5Y-1meJR6FqqvAcRinzk" min-width="300px" max-width="300px" width="300px" align="right" alt="Programacao">
 
 ### Hi there 👋
 
