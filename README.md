@@ -13,7 +13,7 @@ Main skills 🐍:
 <ul>  
   <li>Python;</li>
   <li>Django;</li>
-  <li>JavaScript;</li>
+  <li>React.JS and React Native;</li>
   <li>HTML e CSS.</li>
  </ul>
 
