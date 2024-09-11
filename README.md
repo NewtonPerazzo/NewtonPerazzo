@@ -5,15 +5,14 @@
 <p>Welcome to my profile! ✌🏻</p>
 
 ### About me
-<p>I'm a backend web developer 💻</p>
-<p>I have a little experience in automation with UiPath and Excel 🤖</p>
-<p>I'm also currently doing a Bachelor of Information Systems 🎓</p>
+<p>I'm a frontend web developer 💻</p>
+<p>I have a experience in Redux and API usage 🤖</p>
+<p>I'm also a Bachelor of Information Systems 🎓</p>
 
 Main skills 🐍: 
-<ul>  
-  <li>Python;</li>
-  <li>Django;</li>
+<ul>
   <li>React.JS and React Native;</li>
+  <li>TypeScript;</li>
   <li>HTML e CSS.</li>
  </ul>
 
